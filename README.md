@@ -20,4 +20,4 @@ Postman for testing the APIs endpoints
 VS code.
 
 Developer
-Phanuel NDIKUMANA
+Phanuel NDIKUMANA.
